@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="br.com.fametro.dac.exercicio.cliente.Pato"/>
+<fullyQualifiedTypeName name="br.com.fametro.dac.exercicio.cliente.PatoMandarim"/>
+<fullyQualifiedTypeName name="br.com.fametro.dap.exercicio.compVoar.VooComAsas"/>
+<fullyQualifiedTypeName name="br.com.fametro.dap.exercico.compGrasnar.Grasno"/>
+<fullyQualifiedTypeName name="br.com.fametro.dap.exercicio.compVoar.VooComportamento"/>
+<fullyQualifiedTypeName name="br.com.fametro.dap.exercico.compGrasnar.GrasnoComportamento"/>
+<fullyQualifiedTypeName name="br.com.fametro.dap.exercico.compGrasnar.Rangido"/>
+<fullyQualifiedTypeName name="br.com.fametro.dap.exercicio.compVoar.VooNao"/>
+<fullyQualifiedTypeName name="br.com.fametro.dac.exercicio.cafeteria.bebidas.Bebida"/>
+<fullyQualifiedTypeName name="br.com.fametro.dac.exercicio.cafeteria.bebidas.Expresso"/>
+</qualifiedTypeNameHistroy>

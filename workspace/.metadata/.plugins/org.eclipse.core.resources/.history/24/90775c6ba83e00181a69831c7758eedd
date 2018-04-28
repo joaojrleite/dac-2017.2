@@ -1,0 +1,24 @@
+package br.com.fametro.dac.exercicio.cliente;
+
+import br.com.fametro.dap.exercicio.compVoar.VooComportamento;
+import br.com.fametro.dap.exercico.compGrasnar.GrasnoComportamento;
+
+public class PatoMandarim extends Pato {
+
+	@Override
+	public void exibir() {
+		// TODO Auto-generated method stub
+		super.exibir();
+			System.out.println("Pato Mandarim: -jackie chan, bruce lee");
+
+	}
+	
+	public void realizarVoo(VooComportamento vooComp){
+		vooComp.voar();
+	}
+	
+	public void realizarGrasno(GrasnoComportamento grasnoComp){
+		grasnoComp.grasnar();
+	}
+		
+}

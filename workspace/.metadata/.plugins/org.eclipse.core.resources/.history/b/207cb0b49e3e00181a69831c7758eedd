@@ -1,0 +1,21 @@
+import br.com.fametro.dac.exercicio.cliente.Pato;
+import br.com.fametro.dac.exercicio.cliente.PatoMandarim;
+import br.com.fametro.dap.exercicio.compVoar.VooComAsas;
+import br.com.fametro.dap.exercico.compGrasnar.Grasno;
+
+
+public class SimuladorPato {
+
+	public static void main(String[] args) {
+		
+		
+		Pato patoMandarim = new PatoMandarim();
+		
+		Grasno grasno = new Grasno();
+		VooComAsas vooAsas = new VooComAsas();
+		patoMandarim
+		
+		
+	}
+	
+}

@@ -1,0 +1,29 @@
+
+body {
+	font-family: sans-serif;
+}
+
+h1 {
+	background: blue;
+	color: white;
+}
+
+h2 {
+	color: blue;
+}
+
+thead {
+	background: red;
+}
+
+td {
+	padding: 4pt;
+}
+
+.odd-row {
+	background: rgb(200, 200, 200);
+}
+
+.even-row {
+	background: white;
+}

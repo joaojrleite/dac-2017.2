@@ -1,0 +1,16 @@
+package br.com.fametro.dac.exercicio.cliente;
+
+import br.com.fametro.dap.exercicio.compVoar.VooComportamento;
+
+public class PatoMandarim extends Pato{
+
+	public void realizarVoo(){
+	
+	}
+	
+	public void exibir(){
+		
+	}
+
+	
+}

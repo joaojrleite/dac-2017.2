@@ -1,0 +1,12 @@
+package br.com.fametro.dac.exercicio.cafeteria.bebidas;
+
+public abstract class Bebida {
+
+	String descricao = "Bebida indefinida";
+
+	public String getDescricao() {
+		return descricao;
+	}
+
+	public abstract double custo();
+}
