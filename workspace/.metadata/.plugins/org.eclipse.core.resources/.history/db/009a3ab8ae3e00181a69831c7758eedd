@@ -1,0 +1,24 @@
+package br.com.fametro.dac.exercicio.cafeteria.principal;
+
+import br.com.fametro.dac.exercicio.cafeteria.bebidas.Bebida;
+import br.com.fametro.dac.exercicio.cafeteria.bebidas.Expresso;
+import br.com.fametro.dac.exercicio.cafeteria.condimentos.Creme;
+import br.com.fametro.dac.exercicio.cafeteria.condimentos.Leite;
+
+
+public class CafeShop {
+	
+	public static void main(String[] args) {
+
+		Bebida bebida = new Expresso();
+		System.out.println(bebida.getDescricao() + "R$" + bebida.custo());
+		
+		Bebida bebida2 = new Expresso();
+		bebida2 = new Leite(bebida2);
+		bebida2 = new Leite(bebida2);
+		bebida2 = new Creme(bebida2);
+		System.out.println(bebida2.getDescricao() + "R$" + bebida2.custo());
+	
+	}
+
+}

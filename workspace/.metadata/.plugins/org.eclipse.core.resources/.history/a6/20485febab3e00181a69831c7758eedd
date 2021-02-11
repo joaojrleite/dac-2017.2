@@ -1,0 +1,11 @@
+package br.com.fametro.dac.exercicio.cafeteria.condimentos;
+
+public class Leite extends CondimentoDecorator {
+
+	@Override
+	public String getDescricao() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

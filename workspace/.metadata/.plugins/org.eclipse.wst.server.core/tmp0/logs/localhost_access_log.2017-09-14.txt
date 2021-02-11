@@ -1,0 +1,16 @@
+127.0.0.1 - - [14/Sep/2017:09:47:02 -0300] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [14/Sep/2017:09:47:03 -0300] "GET /LigaApplication/Jogos HTTP/1.1" 200 628
+127.0.0.1 - - [14/Sep/2017:09:50:34 -0300] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [14/Sep/2017:09:50:35 -0300] "GET /LigaApplication/Jogos HTTP/1.1" 200 628
+0:0:0:0:0:0:0:1 - - [14/Sep/2017:09:50:55 -0300] "GET /LigaApplication/Jogos HTTP/1.1" 200 628
+0:0:0:0:0:0:0:1 - - [14/Sep/2017:09:51:56 -0300] "GET /LigaApplication/Jogos HTTP/1.1" 200 628
+0:0:0:0:0:0:0:1 - - [14/Sep/2017:09:55:01 -0300] "GET /LigaApplication/Jogos HTTP/1.1" 200 628
+0:0:0:0:0:0:0:1 - - [14/Sep/2017:09:55:34 -0300] "GET /LigaApplication/Jogos HTTP/1.1" 200 628
+0:0:0:0:0:0:0:1 - - [14/Sep/2017:09:56:24 -0300] "GET /LigaApplication/Jogos HTTP/1.1" 200 628
+127.0.0.1 - - [14/Sep/2017:09:56:34 -0300] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [14/Sep/2017:09:56:43 -0300] "GET /LigaApplication/Jogos HTTP/1.1" 200 628
+127.0.0.1 - - [14/Sep/2017:09:58:53 -0300] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [14/Sep/2017:09:58:54 -0300] "GET /LigaApplication/Jogos HTTP/1.1" 200 628
+127.0.0.1 - - [14/Sep/2017:10:01:19 -0300] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [14/Sep/2017:10:01:19 -0300] "GET /LigaApplication/Jogos HTTP/1.1" 200 629
+0:0:0:0:0:0:0:1 - - [14/Sep/2017:10:01:19 -0300] "GET /LigaApplication/schedule.css HTTP/1.1" 200 261

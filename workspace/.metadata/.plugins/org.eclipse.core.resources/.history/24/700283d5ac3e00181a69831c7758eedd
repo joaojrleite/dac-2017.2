@@ -1,0 +1,17 @@
+package br.com.fametro.dac.exercicio.cafeteria.condimentos;
+
+public class Creme extends CondimentoDecorator {
+
+	@Override
+	public String getDescricao() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public double custo() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

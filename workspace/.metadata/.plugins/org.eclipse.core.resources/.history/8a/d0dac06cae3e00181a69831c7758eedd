@@ -1,0 +1,5 @@
+package br.com.fametro.dac.exercicio.cafeteria.condimentos;
+
+public class Soja extends CondimentoDecorator {
+
+}

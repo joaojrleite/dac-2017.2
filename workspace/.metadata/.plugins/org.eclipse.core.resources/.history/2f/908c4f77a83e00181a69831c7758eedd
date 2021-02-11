@@ -1,0 +1,21 @@
+package br.com.fametro.dac.exercicio.cliente;
+
+import br.com.fametro.dap.exercicio.compVoar.VooComportamento;
+import br.com.fametro.dap.exercico.compGrasnar.GrasnoComportamento;
+
+public class PatoSelvagem extends Pato{
+	
+	public void exibir(){
+		System.out.println("Pato Selvagem: -asdaslfjaslkfjaslfkd!");
+	}
+
+	public void realizarVoo(VooComportamento vooComp){
+		vooComp.voar();
+	}
+	
+	public void realizarGrasno(GrasnoComportamento grasnoComp){
+		grasnoComp.grasnar();
+	}
+
+
+}

@@ -1,0 +1,15 @@
+package br.com.fametro.dac.exercicio.cafeteria.bebidas;
+
+import br.com.fametro.dac.exercicio.cafeteria.condimentos.Leite;
+
+public class Carioca extends Bebida {
+	
+	public Carioca(){
+		descricao = "\nCarioca";
+	}
+	
+	public double custo(){
+		return 1.0;
+	}
+	
+}
